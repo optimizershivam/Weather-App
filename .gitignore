@@ -22,4 +22,5 @@
 
 .env
 
-# Local Netlify folder
+# Local Vercel folder
+.vercel
